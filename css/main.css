@@ -12,6 +12,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
     display: inline;
+    font-size: 1.5em;
     margin-right: 20px;
 }
 a {
