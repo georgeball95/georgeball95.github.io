@@ -15,13 +15,11 @@ nav ul li, footer ul li {
 }
 a {
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.5em;
     text-decoration: none;
     color: #999;
 }
 a:hover {
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.5em;
     text-decoration: underline;
 }
 h1 {
