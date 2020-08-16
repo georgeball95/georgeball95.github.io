@@ -16,10 +16,12 @@ nav ul li, footer ul li {
 a {
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
     text-decoration: none;
+    font-size: 1.5em;
     color: #999;
 }
 a:hover {
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.5em;
     text-decoration: underline;
 }
 h1 {
@@ -29,7 +31,7 @@ h1 {
 }
 p {
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.5em;
+    font-size: 1.25em;
     line-height: 1.4em;
     color: #333;
 }
@@ -42,7 +44,7 @@ footer {
 ul.posts { 
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.25em;
 }
 
 ul.posts li {
