@@ -6,13 +6,11 @@ nav ul, footer ul {
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    font-size: 1.5em;
     font-weight: bold;
 }
 nav ul li, footer ul li {
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
     display: inline;
-    font-size: 1.5em;
     margin-right: 20px;
 }
 a {
