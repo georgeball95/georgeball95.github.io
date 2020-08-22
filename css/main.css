@@ -11,7 +11,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
     display: inline;
-    margin-right: 5px;
+    margin-right: 20px;
 }
 a {
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
