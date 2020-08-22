@@ -49,3 +49,8 @@ ul.posts li {
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
 }
+
+br {
+   display: block;
+   margin: 10px 0;
+}
