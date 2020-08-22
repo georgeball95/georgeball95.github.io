@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Second Post"
-tags: tag1 tag2 tag3
+title: "Second Post Title Name Name Name"
+tags: tag1
 date: 2020-08-17
 ---
 
