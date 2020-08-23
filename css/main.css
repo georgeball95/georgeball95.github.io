@@ -42,6 +42,7 @@ footer {
 ul.posts { 
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.25em;
+    margin: 20px auto 40px; 
 }
 
 ul.posts li {
