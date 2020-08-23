@@ -4,7 +4,6 @@ body {
 }
 nav ul, footer ul {
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
     list-style: none;
     font-weight: bold;
 }
@@ -46,8 +45,8 @@ ul.posts {
 
 ul.posts li {
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
-    padding-left:0;
     list-style: none;
+    padding-left: 0;
 }
 
 br {
