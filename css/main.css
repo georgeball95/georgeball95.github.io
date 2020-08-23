@@ -5,6 +5,7 @@ body {
 nav ul, footer ul {
     font-family:'Liberation Sans','Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
+    padding: 0px;
     font-weight: bold;
 }
 nav ul li, footer ul li {
