@@ -3,41 +3,48 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Liberation Sans';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
+    font-family:'Liberation Sans';
     display: inline;
     margin-right: 20px;
 }
-a {
+a { 
+    font-family:'Liberation Sans';
     text-decoration: none;
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
+    font-family:'Liberation Sans';
 }
 h1 {
+    font-family:'Liberation Sans';
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
+    font-family:'Liberation Sans';
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
 footer {
+    font-family:'Liberation Sans';
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
 ul.posts { 
+    font-family:'Liberation Sans';
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
+    font-family:'Liberation Sans';
     list-style: none;
 }
