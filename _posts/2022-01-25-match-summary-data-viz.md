@@ -12,7 +12,7 @@ When I see this sort of thing, I can't help thinking "so what?" Five dribbles so
 
 The aim is to give a good amount of context without overloading the screen with numbers. 
 
-![Patson Daka graphic](https://github.com/georgeball95/georgeball95.github.io/blob/main/assets/match_summary_Patson%20Daka_2022-01-23.png)
+![Patson Daka graphic]("assets/match_summary_Patson Daka_2022-01-23.png")
 
 Some thoughts on the data viz design process:
 
