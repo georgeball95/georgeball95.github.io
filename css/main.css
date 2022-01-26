@@ -1,5 +1,6 @@
 body {
     margin: 60px auto;
+    text-align: justify;
     width: 70%;
 }
 nav ul, footer ul {
@@ -16,6 +17,7 @@ nav ul li, footer ul li {
 a { 
     font-family:'Liberation Sans';
     text-decoration: none;
+    text-align: justify;
     color: #999;
 }
 a:hover {
@@ -28,6 +30,7 @@ h1 {
 }
 p {
     font-family:'Liberation Sans';
+    text-align: justify;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
@@ -40,11 +43,13 @@ footer {
 
 ul.posts { 
     font-family:'Liberation Sans';
+    text-align: justify;
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
     font-family:'Liberation Sans';
+    text-align: justify;
     list-style: none;
 }
