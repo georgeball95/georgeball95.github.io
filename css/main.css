@@ -4,52 +4,51 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Liberation Sans';
+    font-family:'Liberation Sans','Arial';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    font-family:'Liberation Sans';
+    font-family:'Liberation Sans','Arial';
     display: inline;
     margin-right: 20px;
 }
 a { 
-    font-family:'Liberation Sans';
+    font-family:'Liberation Sans','Arial';
     text-decoration: none;
     text-align: justify;
     color: #999;
 }
 a:hover {
-    font-family:'Liberation Sans';
+    font-family:'Liberation Sans','Arial';
 }
 h1 {
-    font-family:'Liberation Sans';
+    font-family:'Liberation Sans','Arial';
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-family:'Liberation Sans';
+    font-family:'Liberation Sans','Arial';
     text-align: justify;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
 footer {
-    font-family:'Liberation Sans';
+    font-family:'Liberation Sans','Arial';
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
 ul.posts { 
-    font-family:'Liberation Sans';
+    font-family:'Liberation Sans','Arial';
     text-align: justify;
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
-    font-family:'Liberation Sans';
-    text-align: justify;
+    font-family:'Liberation Sans','Arial';
     list-style: none;
 }
