@@ -2,7 +2,7 @@
 layout: post
 title: "Adding context to match summary statistics"
 date: 2022-01-26
-tags: "data viz","football"
+tags: ["data viz","football"]
 ---
 
 A popular use of football statistics online is presenting a player's match totals for various metrics present in a list. E.g. Jamie Vardy vs Liverpool: 3 shots, 5 dribbles, 8 tackles etc
