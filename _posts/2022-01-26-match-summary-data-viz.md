@@ -5,11 +5,13 @@ date: 2022-01-26
 tags: ["data viz, football"]
 ---
 
-A popular use of football statistics online is presenting a player's match totals for various metrics present in a list. E.g. Jamie Vardy vs Liverpool: 3 shots, 5 dribbles, 8 tackles etc
+A popular use of football statistics online is presenting a player's match totals for various metrics present in a list. E.g. Jamie Vardy vs Liverpool: 3 shots, 5 dribbles, 8 tackles etc.
 
-When I see this sort of thing, I can't help thinking "so what?" Is five dribbles a lot? What does that player normally do? How does that compare to his teammates and the rest of the league? In other words, more context is needed. The below piece of data viz is an effort to give context to these lists of statistics. 
+When I see this sort of thing, I can't help thinking "so what?" Is five dribbles a lot? What does that player normally do? How does that compare to his teammates and the rest of the league? In other words, more context is needed. The below data viz is an effort to give context to these lists of statistics. 
 
-<img src="https://raw.githubusercontent.com/georgeball95/georgeball95.github.io/main/assets/match_summary_Patson%20Daka_2022-01-23.png" width="600" height="900" align="center">
+<p align="center" 
+	<img src="https://raw.github.com/georgeball95/georgeball95.github.io/master/assets/match_summary_Patson%20Daka_2022-01-23.png" width="600" height="900" align="center">
+</p>
 
 Some thoughts on the data viz design process:
 
@@ -23,7 +25,7 @@ Some thoughts on the data viz design process:
 
 * <b>Gold star</b> - I think it's cool to have an addition to the graphic to demonstrate the extreme end of the distribution, otherwise the 80th and 99th percentiles show up the same! This graphic is a bit like a scorecard/report card, so a gold star is a nod to that!
 
-Just to note, clearly counts of metrics are not a tool for serious analysis, but I see lists of stats posted often enough so why not try and improve on them. Not a game changer in the football analysis space but I might put a few more out as and when Leicester City players have good games!
+Just to note, clearly counts of metrics are not a tool for serious analysis, but I see lists of stats posted often enough so why not try and improve on them.
 
 
 
