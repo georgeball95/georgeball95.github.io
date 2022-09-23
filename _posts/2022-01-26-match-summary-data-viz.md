@@ -10,7 +10,7 @@ A popular use of football statistics online is presenting a player's match total
 When I see this sort of thing, I can't help thinking "so what?" Is five dribbles a lot? What does that player normally do? How does that compare to his teammates and the rest of the league? In other words, more context is needed. The below data viz is an effort to give context to these lists of statistics. 
 
 <p align="center" width="100%">
-<img width=600 height=900 src="https://raw.github.com/georgeball95/georgeball95.github.io/master/assets/match_summary_Patson%20Daka_2022-01-23.png">
+<img width=400 height=600 src="https://raw.github.com/georgeball95/georgeball95.github.io/master/assets/match_summary_Patson%20Daka_2022-01-23.png">
 </p>
 
 Some thoughts on the data viz design process:
