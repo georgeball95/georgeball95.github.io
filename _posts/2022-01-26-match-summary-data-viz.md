@@ -25,7 +25,7 @@ Some thoughts on the data viz design process:
 
 * <b>Gold star</b> - I think it's cool to have an addition to the graphic to demonstrate the extreme end of the distribution, otherwise the 80th and 99th percentiles show up the same! This graphic is a bit like a scorecard/report card, so a gold star is a nod to that!
 
-Just to note, clearly counts of metrics are not a tool for serious analysis, but I see lists of stats posted often enough so why not try and improve on them.
+Clearly counts not a tool for serious analysis, but an improvement on contextless lists. 
 
 
 
