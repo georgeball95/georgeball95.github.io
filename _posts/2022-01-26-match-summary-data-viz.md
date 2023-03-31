@@ -25,7 +25,7 @@ Some thoughts on the data viz design process:
 
 * <b>Gold star</b> - I think it's cool to have an addition to the graphic to demonstrate the extreme end of the distribution, otherwise the 80th and 99th percentiles show up the same! This graphic is a bit like a scorecard/report card, so a gold star is a nod to that!
 
-Clearly counts not a tool for serious analysis, but an improvement on contextless lists. 
+Clearly counts are not a tool for serious analysis, but an improvement on contextless lists. 
 
 
 
