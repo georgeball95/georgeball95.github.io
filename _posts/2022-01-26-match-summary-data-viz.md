@@ -5,7 +5,7 @@ date: 2022-01-26
 tags: ["data viz, football"]
 ---
 
-A popular use of football statistics online is presenting a player's match totals for various metrics present in a list. E.g. Jamie Vardy vs Liverpool: 3 shots, 5 dribbles, 8 tackles etc.
+A popular use of football statistics online is presenting a player's match totals for various metrics present in a list. E.g. "Jamie Vardy vs Liverpool: 3 shots, 5 dribbles, 8 tackles"
 
 When I see this sort of thing, I can't help thinking "so what?" Is five dribbles a lot? What does that player normally do? How does that compare to his teammates and the rest of the league? In other words, more context is needed. The below data viz is an effort to give context to these lists of statistics. 
 
@@ -25,7 +25,7 @@ Some thoughts on the data viz design process:
 
 * <b>Gold star</b> - I think it's cool to have an addition to the graphic to demonstrate the extreme end of the distribution, otherwise the 80th and 99th percentiles show up the same! This graphic is a bit like a scorecard/report card, so a gold star is a nod to that!
 
-Clearly counts are not a tool for serious analysis, but an improvement on contextless lists. 
+Clearly, counts are not a tool for serious analysis, but an improvement on contextless lists (I hope!)
 
 
 
